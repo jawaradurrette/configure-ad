@@ -40,7 +40,7 @@ Here I have set up virtual machines in Azure provisioning and configuring the ne
 <img src="https://i.imgur.com/lgtOKok.png" height="80%" width="80%" alt="Ensuring Connectivity"/>
 </p>
 <p>
-This perpetual ping is showing the successful connection between the DC-1 virtual machine abd the Client-1 virtual machine. 
+This perpetual ping is showing the successful connection between the DC-1 virtual machine and the Client-1 virtual machine. 
 </p>
 <br />
 
@@ -48,7 +48,7 @@ This perpetual ping is showing the successful connection between the DC-1 virtua
 <img src="https://i.imgur.com/RHPDpla.png" height="80%" width="80%" alt="Active Directory Install"/>
 </p>
 <p>
-  This is the Active Directory Users and Computers (ADUC) management console, which indicates that Active Directory Domain Services (AD DS) role has been installed on this server. This tool is mainly used by administrators to manage users, groups, computers, and other objects within an Active Directory domain. This is also part of an Active Directory domain and is configured as a domain controller.
+  This is the Active Directory Users and Computers (ADUC) management console, which indicates that the Active Directory Domain Services (AD DS) role has been installed on this server. This tool is mainly used by administrators to manage users, groups, computers, and other objects within an Active Directory domain. This is also part of an Active Directory domain and is configured as a domain controller.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ This perpetual ping is showing the successful connection between the DC-1 virtua
 <img src="https://i.imgur.com/dw5LGen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Client-1 has been successfully joined to what I have named jawara.com domain for fun, as confirmed by the message "Welcome to the jawara.com domain." This process is typically done to integrate the computer into a corporate network for example, allowing for centralized management and access to domain resources.
+Client-1 has successfully joined what I have named the jawara.com domain for fun, as confirmed by the message "Welcome to the jawara.com domain." This process is typically done to integrate the computer into a corporate network for example, allowing for centralized management and access to domain resources.
 </p>
 <br />
 
@@ -64,6 +64,6 @@ Client-1 has been successfully joined to what I have named jawara.com domain for
 <img src="https://i.imgur.com/vuuvoKT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally I configure remote desktop to be used by members of the domain.
+Finally, I configure remote desktop to be used by members of the domain.
 </p>
 <br />
